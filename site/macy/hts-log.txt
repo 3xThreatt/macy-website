@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Dec 2025 15:25:40 at https://www.macydyet.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.macydyet.com/ -O1 "C:\My Web Sites\macy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/"https://www.youtube.com/embed/IyhUDc1rIJs?feature=oembed\%22 (from https://www.macydyet.com/portfolio/the-breakdown-diary)
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/portfolio/"https://www.youtube.com/embed/IyhUDc1rIJs?feature=oembed%22 (from https://www.macydyet.com/portfolio/the-breakdown-diary)
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/"//cdn.embedly.com/widgets/media.html?src=%2F%2Fe.issuu.com%2Fembed.html%230%2F98173294&display_name=Issuu&url=https%3A%2F%2Fissuu.com%2Fmacytaylor%2Fdocs%2Fsummative_vis_guide_macytaylor_grad602_print&image=https%3A%2F%2Fimage.issuu.com%2F240411212716-145d936f2937c65e3e8e5bb3c7a05088%2Fjpg%2Fpage_1_thumb_medium.jpg&key=c6502efcb3c84824bc6c1f27d683be13&type=text%2Fhtml&schema=issuu\%22 (from https://www.macydyet.com/portfolio/poutama-brand-identity)
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/portfolio/"https://www.instagram.com/reel/DMo19U7TG1b/embed/"></iframe>" (from https://www.macydyet.com/portfolio/artist-alley)
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/portfolio/"https://www.instagram.com/reel/DMPotYCTi0v/embed/"></iframe>" (from https://www.macydyet.com/portfolio/artist-alley)
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/portfolio/"https://www.instagram.com/reel/DKoOf4jTFzF/embed/"></iframe>" (from https://www.macydyet.com/portfolio/artist-alley)
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/portfolio/"https://www.instagram.com/reel/DJ5VFEKz7av/embed/"></iframe>" (from https://www.macydyet.com/portfolio/artist-alley)
+15:30:05	Error: 	"Not Found" (404) at link https://www.macydyet.com/"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIqKWwKP1Pr4%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIqKWwKP1Pr4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIqKWwKP1Pr4%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube\%22 (from https://www.macydyet.com/portfolio/eris-the-trickster-publication)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 25 seconds : 274 links scanned, 265 files written (363304714 bytes overall) [356619868 bytes received at 1345735 bytes/sec], 9187403 bytes transferred using HTTP compression in 42 files, ratio 18%, 4.3 requests per connection
+(8 errors, 0 warnings, 0 messages)
